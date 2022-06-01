@@ -1,0 +1,6 @@
+1. Make sure you have pip installed
+2. If you do not have the "Pillow" library installed, install it using "pip install Pillow"
+3. Run the program using "python main.py"
+4. Close out of the newly open window
+5. If needed, use the in-program "help" command to get a list of all possible commands, and a breif description
+6. Enjoy!
